@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1522638964232,"sparkVersion":"2.3.0","uid":"VectorAssembler_41bc8ab283d69a83ea85","paramMap":{"outputCol":"features","inputCols":["Rule of Law","Security & Safety","Movement","Religion","Association Assembly & Civil Society","Expression & Information","Identity & Relationships"]}}
